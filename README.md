@@ -11,9 +11,9 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is for educational purposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/55-grupe-serlokas
+Site published at: https://cyber9933.github.io/Serlokas
 
 Design: ![alt text](./original-design.png)
 
@@ -45,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/54-grupe-serlokas.git
+    git clone https://cyber9933.github.io/Serlokas.git
     ```
 2. Install NPM packages
     ```sh
