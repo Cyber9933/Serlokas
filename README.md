@@ -15,7 +15,7 @@ This project is for educational purposes only. Pull request are welcome, but pri
 
 Site published at: https://cyber9933.github.io/Serlokas
 
-Design: ![alt text](./original-design.png)
+Design: ![alt text](./original-design.jpg)
 
 ## 🎯 Project features/goals
 
@@ -66,7 +66,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Lina: [Github](https://github.com/cyber9933)
 
 ## ⚠️ License
 
